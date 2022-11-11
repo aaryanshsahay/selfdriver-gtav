@@ -2,7 +2,7 @@
 
 Model : Xception base with custom head
 
-Trained on : K80 GPU // 12GB RAM 
+Trained on : Nvidia Tesla K80 GPU // 12GB RAM 
 
 Running on : Nvidia GTX 1650 Ti // 16GB RAM
 <hr>
